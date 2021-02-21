@@ -1,0 +1,19 @@
+body {
+    background-color: lightpink
+}
+
+h2 {
+    font-family: "Monaco"
+}
+
+.button {
+    background-color: #06c0c0;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    border-radius: 9px;
+    font-family: "Monaco";
+  }
